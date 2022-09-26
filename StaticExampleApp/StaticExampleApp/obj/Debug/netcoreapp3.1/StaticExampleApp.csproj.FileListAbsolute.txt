@@ -1,0 +1,14 @@
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.exe
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.deps.json
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.runtimeconfig.json
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.runtimeconfig.dev.json
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.dll
+E:\C#\StaticExampleApp\StaticExampleApp\bin\Debug\netcoreapp3.1\StaticExampleApp.pdb
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.csproj.AssemblyReference.cache
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.AssemblyInfoInputs.cache
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.AssemblyInfo.cs
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.csproj.CoreCompileInputs.cache
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.dll
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.pdb
+E:\C#\StaticExampleApp\StaticExampleApp\obj\Debug\netcoreapp3.1\StaticExampleApp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.exe
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.deps.json
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.runtimeconfig.json
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.runtimeconfig.dev.json
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.dll
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\bin\Debug\netcoreapp3.1\AnonymousTypeExample.pdb
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.csproj.AssemblyReference.cache
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.AssemblyInfoInputs.cache
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.AssemblyInfo.cs
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.csproj.CoreCompileInputs.cache
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.dll
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.pdb
+E:\C#\AnonymousTypeExample\AnonymousTypeExample\obj\Debug\netcoreapp3.1\AnonymousTypeExample.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.exe
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.deps.json
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.runtimeconfig.json
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.runtimeconfig.dev.json
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.dll
+E:\C#\OOPExample\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.pdb
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.csproj.AssemblyReference.cache
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.AssemblyInfoInputs.cache
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.AssemblyInfo.cs
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.csproj.CoreCompileInputs.cache
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.dll
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.pdb
+E:\C#\OOPExample\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.genruntimeconfig.cache

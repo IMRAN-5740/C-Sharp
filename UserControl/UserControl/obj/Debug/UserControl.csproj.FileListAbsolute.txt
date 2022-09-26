@@ -1,0 +1,11 @@
+E:\C#\UserControl\UserControl\bin\Debug\UserControl.exe.config
+E:\C#\UserControl\UserControl\bin\Debug\UserControl.exe
+E:\C#\UserControl\UserControl\bin\Debug\UserControl.pdb
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.csprojAssemblyReference.cache
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.Form1.resources
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.Properties.Resources.resources
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.csproj.GenerateResource.cache
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.csproj.CoreCompileInputs.cache
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.exe
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.pdb
+E:\C#\UserControl\UserControl\obj\Debug\UserControl.Form2.resources

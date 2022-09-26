@@ -1,0 +1,7 @@
+E:\C#\StackExample\StackExample\obj\Debug\StackExample.csprojAssemblyReference.cache
+E:\C#\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+E:\C#\StackExample\StackExample\bin\Debug\StackExample.exe.config
+E:\C#\StackExample\StackExample\bin\Debug\StackExample.exe
+E:\C#\StackExample\StackExample\bin\Debug\StackExample.pdb
+E:\C#\StackExample\StackExample\obj\Debug\StackExample.exe
+E:\C#\StackExample\StackExample\obj\Debug\StackExample.pdb

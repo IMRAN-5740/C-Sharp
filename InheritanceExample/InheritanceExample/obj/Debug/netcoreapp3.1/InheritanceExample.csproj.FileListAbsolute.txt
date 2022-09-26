@@ -1,0 +1,14 @@
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.exe
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.deps.json
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.json
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.dev.json
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.dll
+E:\C#\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.pdb
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.csproj.AssemblyReference.cache
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfoInputs.cache
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfo.cs
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.csproj.CoreCompileInputs.cache
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.dll
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.pdb
+E:\C#\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.genruntimeconfig.cache

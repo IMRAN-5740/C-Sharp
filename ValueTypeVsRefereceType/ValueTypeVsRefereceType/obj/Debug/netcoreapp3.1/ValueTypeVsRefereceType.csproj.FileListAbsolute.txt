@@ -1,0 +1,14 @@
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.exe
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.deps.json
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.runtimeconfig.json
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.runtimeconfig.dev.json
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.dll
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\bin\Debug\netcoreapp3.1\ValueTypeVsRefereceType.pdb
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.csproj.AssemblyReference.cache
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.AssemblyInfoInputs.cache
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.AssemblyInfo.cs
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.csproj.CoreCompileInputs.cache
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.dll
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.pdb
+E:\C#\ValueTypeVsRefereceType\ValueTypeVsRefereceType\obj\Debug\netcoreapp3.1\ValueTypeVsRefereceType.genruntimeconfig.cache

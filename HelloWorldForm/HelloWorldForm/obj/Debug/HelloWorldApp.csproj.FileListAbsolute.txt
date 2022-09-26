@@ -1,0 +1,10 @@
+E:\C#\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.exe.config
+E:\C#\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.exe
+E:\C#\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.pdb
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldApp.csprojAssemblyReference.cache
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.Properties.Resources.resources
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.exe
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.pdb
+E:\C#\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.HelloAppUI.resources

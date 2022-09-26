@@ -1,0 +1,14 @@
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.exe
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.deps.json
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.runtimeconfig.json
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.runtimeconfig.dev.json
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.dll
+E:\C#\DynamicTypeExample\DynamicTypeExample\bin\Debug\netcoreapp3.1\DynamicTypeExample.pdb
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.csproj.AssemblyReference.cache
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.AssemblyInfoInputs.cache
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.AssemblyInfo.cs
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.csproj.CoreCompileInputs.cache
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.dll
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.pdb
+E:\C#\DynamicTypeExample\DynamicTypeExample\obj\Debug\netcoreapp3.1\DynamicTypeExample.genruntimeconfig.cache

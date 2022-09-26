@@ -1,0 +1,11 @@
+E:\C#\WindowsVsWeb\WindowsVsWeb\bin\Debug\WindowsVsWeb.exe.config
+E:\C#\WindowsVsWeb\WindowsVsWeb\bin\Debug\WindowsVsWeb.exe
+E:\C#\WindowsVsWeb\WindowsVsWeb\bin\Debug\WindowsVsWeb.pdb
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.csproj.AssemblyReference.cache
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.csproj.SuggestedBindingRedirects.cache
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.Form1.resources
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.Properties.Resources.resources
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.csproj.GenerateResource.cache
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.csproj.CoreCompileInputs.cache
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.exe
+E:\C#\WindowsVsWeb\WindowsVsWeb\obj\Debug\WindowsVsWeb.pdb

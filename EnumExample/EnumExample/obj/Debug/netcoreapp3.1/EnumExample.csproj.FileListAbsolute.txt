@@ -1,0 +1,14 @@
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.exe
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.deps.json
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.runtimeconfig.json
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.runtimeconfig.dev.json
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.dll
+E:\C#\EnumExample\EnumExample\bin\Debug\netcoreapp3.1\EnumExample.pdb
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.csproj.AssemblyReference.cache
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.AssemblyInfoInputs.cache
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.AssemblyInfo.cs
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.csproj.CoreCompileInputs.cache
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.dll
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.pdb
+E:\C#\EnumExample\EnumExample\obj\Debug\netcoreapp3.1\EnumExample.genruntimeconfig.cache

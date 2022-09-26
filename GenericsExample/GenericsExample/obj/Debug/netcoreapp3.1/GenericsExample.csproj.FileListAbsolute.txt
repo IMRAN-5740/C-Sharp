@@ -1,0 +1,14 @@
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.csproj.AssemblyReference.cache
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.AssemblyInfoInputs.cache
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.AssemblyInfo.cs
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.csproj.CoreCompileInputs.cache
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.exe
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.deps.json
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.runtimeconfig.json
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.runtimeconfig.dev.json
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.dll
+E:\C#\GenericsExample\GenericsExample\bin\Debug\netcoreapp3.1\GenericsExample.pdb
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.dll
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.pdb
+E:\C#\GenericsExample\GenericsExample\obj\Debug\netcoreapp3.1\GenericsExample.genruntimeconfig.cache

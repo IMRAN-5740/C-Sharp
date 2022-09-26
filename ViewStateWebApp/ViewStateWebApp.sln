@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewStateWebApp", "ViewStateWebApp\ViewStateWebApp.csproj", "{D7FA9013-39D2-4BDA-92DD-6C7F15846D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FA9013-39D2-4BDA-92DD-6C7F15846D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FA9013-39D2-4BDA-92DD-6C7F15846D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FA9013-39D2-4BDA-92DD-6C7F15846D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FA9013-39D2-4BDA-92DD-6C7F15846D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF693D9-6516-4A33-8B30-B4119EB9E0FF}
+	EndGlobalSection
+EndGlobal

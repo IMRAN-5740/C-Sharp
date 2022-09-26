@@ -1,0 +1,6 @@
+E:\C#\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+E:\C#\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+E:\C#\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+E:\C#\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+E:\C#\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+E:\C#\QueueExample\QueueExample\obj\Debug\QueueExample.pdb
