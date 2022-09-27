@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -12,7 +13,9 @@ namespace UniversityApp.Gateway
         private SqlConnection connection;
         public SqlConnection GetConnection()
         {
-            connection = new SqlConnection("Data Source=MOHAMMAD-IMRAN;Initial Catalog=University_Info;Persist Security Info=True;User ID=sa;Password=imran");
+            string connectionString = ConfigurationManager.ConnectionStrings["UniversityApp"].ConnectionString;
+            connection = new SqlConnection(connectionString);
+            //connection = new SqlConnection("Data Source=MOHAMMAD-IMRAN;Initial Catalog=University_Info;Persist Security Info=True;User ID=sa;Password=imran");
             if(connection.State==ConnectionState.Open)
             {
                 connection.Close();

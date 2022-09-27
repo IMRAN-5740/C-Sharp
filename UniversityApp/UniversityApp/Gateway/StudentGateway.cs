@@ -18,9 +18,23 @@ namespace UniversityApp.Gateway
             // connection.Open();
             //SqlCommand command = new SqlCommand(query, connection);
             //connection.Close();
-            string query = "INSERT INTO Student_data (Name,StudentID,Email,Department,Phone,RegNo,Gender,BloodGroup,HallName,Address,University) VALUES('" + astudent.Name + "','" + astudent.StudentID + "','" + astudent.Email + "','" + astudent.Department + "','" + astudent.Phone + "','" + astudent.RegNo + "','" + astudent.Gender + "','" + astudent.BloodGroup + "','" + astudent.HallName + "','" + astudent.Address + "','" + astudent.University + "')";
-              SqlCommand command = new SqlCommand(query, connectionDatabase.GetConnection());
-            
+            //string query = "INSERT INTO Student_data (Name,StudentID,Email,Department,Phone,RegNo,Gender,BloodGroup,HallName,Address,University) VALUES('" + astudent.Name + "','" + astudent.StudentID + "','" + astudent.Email + "','" + astudent.Department + "','" + astudent.Phone + "','" + astudent.RegNo + "','" + astudent.Gender + "','" + astudent.BloodGroup + "','" + astudent.HallName + "','" + astudent.Address + "','" + astudent.University + "')";
+            string query = "INSERT INTO Student_data (Name,StudentID,Email,Department,Phone,RegNo,Gender,BloodGroup,HallName,Address,University) VALUES(@Name,@StudentID,@Email,@Department,@Phone,@RegNo,@Gender,@BloodGroup,@HallName,@Address,@University)"; 
+
+
+            SqlCommand command = new SqlCommand(query, connectionDatabase.GetConnection());
+            command.Parameters.Clear();
+            command.Parameters.AddWithValue("Name", astudent.Name);
+            command.Parameters.AddWithValue("StudentID", astudent.StudentID);
+            command.Parameters.AddWithValue("Email", astudent.Email);
+            command.Parameters.AddWithValue("Department", astudent.Department);
+            command.Parameters.AddWithValue("Phone", astudent.Phone);
+            command.Parameters.AddWithValue("RegNo", astudent.RegNo);
+            command.Parameters.AddWithValue("Gender", astudent.Gender);
+            command.Parameters.AddWithValue("BloodGroup", astudent.BloodGroup);
+            command.Parameters.AddWithValue("HallName", astudent.HallName);
+            command.Parameters.AddWithValue("Address", astudent.Address);
+            command.Parameters.AddWithValue("University", astudent.University);
             int rowCount = command.ExecuteNonQuery();
            connectionDatabase.CloseConnection();
            
