@@ -1,0 +1,14 @@
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.exe
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.deps.json
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.runtimeconfig.json
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.runtimeconfig.dev.json
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.dll
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\netcoreapp3.1\ExtensionMethodExample.pdb
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.csproj.AssemblyReference.cache
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.AssemblyInfoInputs.cache
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.AssemblyInfo.cs
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.csproj.CoreCompileInputs.cache
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.dll
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.pdb
+E:\C#\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\netcoreapp3.1\ExtensionMethodExample.genruntimeconfig.cache
