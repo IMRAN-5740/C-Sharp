@@ -76,5 +76,21 @@ namespace UniversityApp.Manager
                 return "Student Data Not Updated Try Again..!";
             }
         }
+        public List<Course> GetAllCourses()
+        {
+            return aGateway.GetAllCourses();
+        }
+        public string EnrollStudent(CourseEnroll courseEnroll)
+        {
+            int rowCount = aGateway.EnrollStudent(courseEnroll);
+            if(rowCount>0)
+            {
+                return "Student Enrolled Successfully.";
+            }
+            else
+            {
+                return "Student Enrolled Failed..!";
+            }
+        }
     }
 }

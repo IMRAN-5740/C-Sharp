@@ -116,12 +116,38 @@ namespace UniversityApp.Gateway
         }
         public int UpdateStudent(Student student)
         {
-            SqlConnection connection = new SqlConnection("Data Source=MOHAMMAD-IMRAN;Initial Catalog=University_Info;Persist Security Info=True;User ID=sa;Password=imran");
-            connection.Open();
+           // SqlConnection connection = new SqlConnection("Data Source=MOHAMMAD-IMRAN;Initial Catalog=University_Info;Persist Security Info=True;User ID=sa;Password=imran");
+            //connection.Open();
             string query = "UPDATE Student_data SET Name='" + student.Name + "',StudentID='" + student.StudentID + "',Email='" + student.Email + "',Department='" + student.Department + "',Phone='" + student.Phone + "',Gender='" + student.Gender + "',BloodGroup='" + student.BloodGroup + "',HallName='" + student.HallName + "',Address='" + student.Address + "',University='" + student.University + "' WHERE RegNo='" + student.RegNo + "' ";
             //SqlCommand command = new SqlCommand(query, connection);
             SqlCommand command = new SqlCommand(query, connectionDatabase.GetConnection());
             int rowCount = command.ExecuteNonQuery();
+            return rowCount;
+        }
+        public List<Course> GetAllCourses()
+        {
+           
+            string query = "SELECT * FROM Course_data";
+            SqlCommand command = new SqlCommand(query,connectionDatabase.GetConnection());
+            SqlDataReader reader = command.ExecuteReader();
+            List<Course> courses = new List<Course>();
+            while(reader.Read())
+            {
+                Course course = new Course();
+                course.CourseID = (int)reader["CourseID"];
+                course.CourseName = reader["CourseName"].ToString();
+                courses.Add(course);
+            }
+            reader.Close();
+            connectionDatabase.CloseConnection();
+            return courses;
+        }
+        public int EnrollStudent(CourseEnroll courseEnroll)
+        { 
+            string query = "INSERT INTO CourseEnroll_data(StudentID,CourseCode,DateTime) VALUES('" + courseEnroll.StudentID + "','" + courseEnroll.CourseCode + "','" + courseEnroll.DateTime + "')";
+            SqlCommand command=new SqlCommand(query, connectionDatabase.GetConnection());
+            int rowCount = command.ExecuteNonQuery();
+            connectionDatabase.CloseConnection();
             return rowCount;
         }
     }

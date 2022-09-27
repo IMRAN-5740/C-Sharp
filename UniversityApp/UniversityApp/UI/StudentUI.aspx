@@ -107,7 +107,7 @@
                     <td class="auto-style1"></td>
                 </tr>
                 <tr>
-                    <td class="auto-style2">Student ID :Student Hall Name :</td>
+                    <td class="auto-style2">Student Hall Name :</td>
                     <td class="auto-style4">
                         <asp:TextBox ID="hallTextBox" runat="server" Width="430px"></asp:TextBox>
                     </td>
