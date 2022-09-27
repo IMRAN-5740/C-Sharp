@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wX6nQ1kV6zcqF+Hm0Quwj5s5AyE/u+DZtBc/vEh2z7w7c0Jq3xCv6RbVVsnf0QpNa8tJ6n422T42EcKK7vhdUA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\ReflectionExample\\ReflectionExample\\ReflectionExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Imran\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Imran\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.exe
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.deps.json
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.runtimeconfig.json
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.runtimeconfig.dev.json
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.dll
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.pdb
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\C#\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.csproj.AssemblyReference.cache
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.AssemblyInfoInputs.cache
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.AssemblyInfo.cs
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.csproj.CoreCompileInputs.cache
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.csproj.CopyComplete
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.dll
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.pdb
+E:\C#\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.genruntimeconfig.cache
